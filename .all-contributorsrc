@@ -1902,6 +1902,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mihui",
+      "name": "Michael",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1511528?v=4",
+      "profile": "http://mihui.net/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitConvention": "none"
